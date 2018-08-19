@@ -1,0 +1,37 @@
+ 
+.menu_box{
+	margin-left:265px;
+ }
+.menu_g{
+	
+	font-family:"Lucida Grande", arial, sans-serif;
+	margin-top:-10px;
+	padding:0;
+	height:35px;
+ 	float:left;
+	color:#191919;
+	text-align:center;
+	overflow:hidden;
+	
+ 
+}
+
+.menu_g a{
+	color:#FFF;
+	text-decoration:none;
+ }
+
+.menu_g p{
+	padding:8px 27px;	
+}
+
+ 
+
+/*Menu Color Classes*/ 
+.green{background:#619307 ; border-radius:0 0 0 8px;}
+.yellow{background:#cfe86a ;}
+.red{background:#d5b35d;}
+.purple{background:#d0b8b8 ;}
+.blue{background:#b5b5b5 ; border-radius:0 0 8px 0;}
+
+/*.green{background:#6AA63B url('../images/green-item-bg.jpg') top  left no-repeat;}*/
